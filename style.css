@@ -83,3 +83,15 @@ body {
     background-color: #4070f4;
     text-decoration: none;
  }
+
+ .profile-card .buttons {
+    display:flex;
+    align-items: center;
+    margin-top: 25px;
+ }
+
+ .buttons .button {
+    background-color: #4070f4;
+    border-radius: 24px;
+    padding: 8px 24px;
+ }
