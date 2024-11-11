@@ -91,6 +91,9 @@ body {
  }
 
  .buttons .button {
+    color: #fff;
+    font-size: 14px;
+    font-synthesis-weight: 400;
     background-color: #4070f4;
     border-radius: 24px;
     padding: 8px 24px;
