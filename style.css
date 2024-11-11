@@ -63,3 +63,8 @@ body {
      font-size: 15px;
      font-weight: 400;
  }
+
+ .profile-card .media-buttons {
+    display: flex;
+    align-items: center;
+ }
