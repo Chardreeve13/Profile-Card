@@ -19,6 +19,7 @@ body {
 
 .profile-card {
     max-width: 370px;
+    align-items: center;
     width: 100%;
     background: #fff;
     border-radius: 24px;
